@@ -1,4 +1,4 @@
-# LB
+# TE
 
 A PC library for Gorilla Tag that handles various room-related things (and more?)
 
